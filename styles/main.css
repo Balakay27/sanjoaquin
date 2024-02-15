@@ -1,0 +1,55 @@
+header {
+    clear: left;
+}
+
+header h2 {
+    color: maroon;
+    font-size: 170%;
+}
+
+header h3 {
+    font-size: 130%;
+    font-style: italic;
+
+}
+
+header img {
+    float: left;
+    padding-right: 35px;
+    
+}
+
+.shadow {
+    text-shadow: 2px 2px #800000;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    
+}
+
+main {
+    padding-top: 10px;
+    
+}
+main h1 {
+    font-size: 150%;
+}
+
+main h2 {
+    font-size: 130;
+    color: maroon;
+}
+
+main h3 {
+    font-size: 105%;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+footer p {
+    text-align: center;
+}
